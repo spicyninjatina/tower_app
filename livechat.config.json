@@ -1,4 +1,6 @@
 {
     "appId": "SAFMLX34g",
-    "auth": {}
+    "auth": {
+        "clientId": "660d4033e4c0dcebe7686d727a4e5121"
+    }
 }
