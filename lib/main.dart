@@ -67,7 +67,7 @@ class MyHomePage extends StatelessWidget {
             onPressed: () {
               Livechat.beginChat('311d4642-2b1f-4ea4-b9bf-6b83beb50b56', '7d271ba99786bb72f0febd416cde49a8', 'Tina', 'kristina@suitedynamics.io');
             },
-            child: Text('Heeey "Calendar" Page'),
+            child: Text('Open Chat?'),
           ),
           ElevatedButton(
             onPressed: () {
